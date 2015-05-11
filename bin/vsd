@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'vsphere_diagram'
+
+CLI.start(ARGV)

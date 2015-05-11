@@ -13,3 +13,5 @@
 *.a
 mkmf.log
 /vsphere_diagram-*.gem
+/.ruby-version
+/test/dummy/.ruby-version
